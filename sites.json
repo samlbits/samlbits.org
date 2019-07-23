@@ -1,0 +1,12 @@
+{
+  "markers": [
+    { "latitude": 59.342874, "longitude": 18.07251, "title": "Stockholm", "status": "active","content": "Hosting and server resources provided by <a href=\"http://www.sunet.se\">SUNET</a>" },
+    { "latitude": 41.878114, "longitude": -87.629798, "title": "Chicago", "status": "active","content": "Hosting provided by <a href=\"http://isoc.se\">The Internet Society</a>" },
+    { "latitude": -30.1022217,"longitude": -51.1559194, "title": "Porto Alegre", "status": "active","content": "Hosting provided by <a href=\"http://www.rnp.br\">RNP</a>" },
+    { "latitude": 64.1358635,"longitude": -21.9460599, "title": "Reykjavik", "status": "active","content": "Hosting provided by <a href=\"http://www.rhnet.is\">RHNet</a>"},
+    { "latitude": -27.4690003,"longitude": 153.0091218, "title": "Brisbane", "status": "active","content": "Hosting provided by <a href=\"http://aarnet.au\">AARnet</a>"},
+    { "latitude": -37.8602828,"longitude": 145.079616, "title": "Melbourne", "status": "active","content": "Hosting provided by <a href=\"http://aarnet.au\">AARnet</a>"},
+    { "latitude": 35.712678,"longitude": 139.761989, "title": "Tokyo", "status": "active","content": "Hosting provided by ISOC-JP, Sakura Internet and Gakunin"},
+    { "latitude": 52.0841868,"longitude": 5.0824915, "title": "Utrecht", "status": "active", "content": "Hosting provided by SURFnet"}
+  ]
+}
